@@ -1,5 +1,9 @@
 # Project-1
 Hi! My name is Fiona Wang!
+I am from China although I was born in Houston.
+I really like art-any form of it!
+I am also a big foodie.
+I love most sports.
 Hope you enjoy my first website!
 
 
