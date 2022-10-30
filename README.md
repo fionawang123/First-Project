@@ -1,4 +1,4 @@
-# Project-1
+# First Project
 Hi! My name is Fiona Wang!
 I am from China although I was born in Houston.
 I really like art-any form of it!
